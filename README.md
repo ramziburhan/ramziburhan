@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ramziburhan
-- 👀 I’m interested in software development
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me Ramzi Burhan on Linkedin
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love cars and working out
 
 <!---
